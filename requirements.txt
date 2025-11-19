@@ -1,0 +1,18 @@
+python-dotenv
+langdetect
+mysql-connector-python
+requests
+# Twilio for calling feature
+twilio==9.0.0
+pytz
+cryptography
+email-validator
+fastapi
+uvicorn
+apscheduler
+pyttsx3
+sounddevice
+speechrecognition
+scipy
+numpy
+reportlab

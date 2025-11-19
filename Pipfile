@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "*"
+langdetect = "*"
+mysql-connector-python = "*"
+requests = "*"
+pytz = "*"
+cryptography = "*"
+email-validator = "*"
+apscheduler = "*"
+pyttsx3 = "*"
+sounddevice = "*"
+speechrecognition = "*"
+scipy = "*"
+numpy = "*"
+pyaudio = "*"
+fastapi = "*"
+uvicorn = "*"
+python-multipart = "*"
+twilio = "*"
+reportlab = "*"
+watchdog = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.8"

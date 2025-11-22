@@ -2,8 +2,7 @@ python-dotenv
 langdetect
 mysql-connector-python
 requests
-# Twilio for calling feature
-twilio==9.0.0
+twilio
 pytz
 cryptography
 email-validator
@@ -16,3 +15,6 @@ speechrecognition
 scipy
 numpy
 reportlab
+pyaudio
+python-multipart
+watchdog
